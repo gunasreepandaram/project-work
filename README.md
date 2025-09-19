@@ -1,9 +1,12 @@
- Tech Stack  
+ # Tech Stack  
 
 - Frontend:** React.js  
 - Language:** JavaScript (ES6+)  
 - Styling:** CSS  
-- Build Tools:** Node.js, npm, Create React App 
+- Build Tools:** Node.js, npm, Create React App
+
+# ABOUT THIS PROJECT
+It is The Project Work application is a React-based frontend project . It is an e-commerce mobile selling application ,I gave a web application name as EASY SHOPY. it was collected some mobiles to sell the mobiles . i focused most on front end on login page and cart items and more over for users login and home pages . i interact with dummy APIS for back end support. it was a small unit of project but it will show all my knowledge on front end part .
 
 # Difference between NPM and NPX
     NPM -> install, update, uninstall
