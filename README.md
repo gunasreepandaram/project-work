@@ -1,3 +1,10 @@
+ Tech Stack  
+
+- Frontend:** React.js  
+- Language:** JavaScript (ES6+)  
+- Styling:** CSS  
+- Build Tools:** Node.js, npm, Create React App 
+
 # Difference between NPM and NPX
     NPM -> install, update, uninstall
 
@@ -22,6 +29,7 @@
 # Async, Await and Call back functions
 # higer order function -> accepts other function as input
 # redux
+
 
 
 
