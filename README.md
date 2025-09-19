@@ -29,9 +29,9 @@ It is The Project Work application is a React-based frontend project . It is an 
     API docsuments ->
     API name, path, method, sample request body
         
-# Async, Await and Call back functions
-# higer order function -> accepts other function as input
-# redux
+Async, Await and Call back functions
+higer order function -> accepts other function as input
+
 
 
 
